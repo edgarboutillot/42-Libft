@@ -1,6 +1,6 @@
 # Libft
 
-This project was completed as part of the curriculum at École 42. The goal of the project is to implement a library of standard C functions, as well as additional useful functions that are not part of the standard library. 
+This project was completed as part of the curriculum at School 42. The goal of the project is to implement a library of standard C functions, as well as additional useful functions that are not part of the standard library. 
 
 ## Installation
 
@@ -44,4 +44,4 @@ In this example, the `ft_strjoin` function is used to concatenate two strings, w
 
 ## Credits
 
-This project was completed by Léon Pupier (lpupier) as part of the curriculum at École 42.
+This project was completed by Edgar Boutillot (edboutil) as part of the curriculum at School 42.
