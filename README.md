@@ -41,7 +41,3 @@ int main()
 ```
 
 In this example, the `ft_strjoin` function is used to concatenate two strings, which are then printed to the screen using the `ft_putstr` and `ft_putchar` functions.
-
-## Credits
-
-This project was completed by Edgar Boutillot (edboutil) as part of the curriculum at School 42.
